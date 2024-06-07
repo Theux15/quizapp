@@ -74,6 +74,7 @@
         width: 12px;
         height: 12px;
         border-radius: 999px;
+        cursor: pointer;
     }
 
     main {
